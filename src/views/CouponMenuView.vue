@@ -1,10 +1,5 @@
 <script setup lang="ts">
 import PerPageHeader from '@/components/PerPageHeader.vue'
-
-const method1 = ()=> {
-  console.log("HELL!!!O12345")
-}
-method1()
 </script>
 
 <template>
